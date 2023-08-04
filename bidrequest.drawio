@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-04T05:57:02.917Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="VXF9_Rk6oV9lrQOdGLeo" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-04T08:38:45.241Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="oSaJ8AsBL4zuWxheCR9P" version="21.6.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1194" dy="533" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -157,6 +157,14 @@
         </mxCell>
         <mxCell id="EK0wY1UbsbaqYq5Uubj7-32" value="&lt;b&gt;&lt;i&gt;&lt;u&gt;替换impurl，替换burl,触发&lt;/u&gt;&lt;/i&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="167.5" y="640" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="maYp8aYVbwoJodFECv4R-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="maYp8aYVbwoJodFECv4R-0" target="EK0wY1UbsbaqYq5Uubj7-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="485" y="430" />
+              <mxPoint x="223" y="430" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="maYp8aYVbwoJodFECv4R-0" value="调用ace的GetAds方法，&lt;u&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;&lt;i style=&quot;border-color: var(--border-color);&quot;&gt;触发&lt;/i&gt;&lt;/b&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;&lt;i style=&quot;border-color: var(--border-color);&quot;&gt;nurl&lt;/i&gt;&lt;/b&gt;&lt;/u&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="430" y="360" width="110" height="50" as="geometry" />
